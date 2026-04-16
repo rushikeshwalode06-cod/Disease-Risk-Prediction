@@ -2,6 +2,7 @@
 The Disease Risk Prediction System uses machine learning to predict whether a person is at risk of a disease based on health data like age, blood pressure, and cholesterol. It helps in early detection, improves decision-making, and supports preventive healthcare with accurate predictions.
 
 #  🏥 Disease Risk Prediction (Machine Learning Project)
+
 ## 📌 Project Overview
 
 The Disease Risk Prediction project uses Machine Learning to predict whether a person is at risk of a disease based on health-related parameters such as age, blood pressure, cholesterol, and other medical attributes.
