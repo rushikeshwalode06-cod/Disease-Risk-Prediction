@@ -7,13 +7,13 @@ The Disease Risk Prediction System uses machine learning to predict whether a pe
 The Disease Risk Prediction project uses Machine Learning to predict whether a person is at risk of a disease based on health-related parameters such as age, blood pressure, cholesterol, and other medical attributes.
 
 It helps in early detection and supports preventive healthcare.
----
+
 
 ## 🎯 Objective
 1. Predict disease risk (0 = No Risk, 1 = Risk)
 2. Build a classification model
 3. Assist in early medical decision-making
----
+
 
 ##  📂 Dataset Information
 1. Age
@@ -26,7 +26,7 @@ It helps in early detection and supports preventive healthcare.
 8. Alcohol_intake
 9. Physical_activity
 10. Disease_risk (target_value)
----
+
 
 ## ⚙️ Technologies Used
 1. Python 🐍
@@ -34,7 +34,7 @@ It helps in early detection and supports preventive healthcare.
 3. NumPy
 4. Scikit-learn
 5. Matplotlib / Seaborn
----
+
 
 ## 🧠 ML Algorithms Used
 Random Forest Classifier
@@ -46,7 +46,7 @@ Random Forest Classifier
 3. Model Training
 4. Model Testing
 5. Model Evaluation
----
+
 
 ## 📊 Model Evaluation
 1. Accuracy
@@ -54,7 +54,7 @@ Random Forest Classifier
 3. Recall
 4. F1 Score
 5. Confusion Matrix
----
+
 
 ## 📈 Sample Output
    Disease Risk Present⚠️ (1)
@@ -65,7 +65,7 @@ Random Forest Classifier
 2. Add real-time health monitoring
 3. Improve UI/UX design
 4. Deploy on cloud platforms
- ---
+
 
 ## 🙌 Conclusion
 This project demonstrates how Machine Learning can be used in healthcare to predict disease risks early and support better medical decisions.
