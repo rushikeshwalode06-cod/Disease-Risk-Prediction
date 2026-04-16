@@ -8,6 +8,9 @@ The Disease Risk Prediction project uses Machine Learning to predict whether a p
 
 It helps in early detection and supports preventive healthcare.
 
+![ML](https://github.com/rushikeshwalode06-cod/Disease-Risk-Prediction/blob/main/Disease%20risk%20graph.png?raw=true)
+
+
 
 ## 🎯 Objective
 1. Predict disease risk (0 = No Risk, 1 = Risk)
