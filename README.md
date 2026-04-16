@@ -8,7 +8,7 @@ The Disease Risk Prediction project uses Machine Learning to predict whether a p
 
 It helps in early detection and supports preventive healthcare.
 
-![ML](https://github.com/rushikeshwalode06-cod/Disease-Risk-Prediction/blob/main/Disease%20risk%20graph.png?raw=true)
+![ML](https://github.com/rushikeshwalode06-cod/Disease-Risk-Prediction/blob/main/Disease_risk_prediction.png?raw=true)
 
 
 
@@ -41,6 +41,8 @@ It helps in early detection and supports preventive healthcare.
 
 ## 🧠 ML Algorithms Used
 Random Forest Classifier
+
+![ML](
 
 
 ## 🔄 Workflow
