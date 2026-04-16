@@ -57,7 +57,7 @@ Random Forest Classifier
 
 
 ## 📈 Sample Output
-Disease Risk Present⚠️ (1) .
+Disease Risk Present⚠️ (1) ,
 You are Healthy ✅ (0)
 
 ## 💡 Future Improvements
