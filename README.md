@@ -42,7 +42,7 @@ It helps in early detection and supports preventive healthcare.
 ## 🧠 ML Algorithms Used
 Random Forest Classifier
 
-![ML](
+![ML](https://github.com/rushikeshwalode06-cod/Disease-Risk-Prediction/blob/main/Disease%20risk%20graph.png?raw=true)
 
 
 ## 🔄 Workflow
