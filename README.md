@@ -59,7 +59,6 @@ Random Forest Classifier
 ## 📈 Sample Output
 Disease Risk Present⚠️ (1)
 You are Healthy ✅ (0)
----
 
 ## 💡 Future Improvements
 1. Use deep learning models
@@ -70,4 +69,3 @@ You are Healthy ✅ (0)
 
 ## 🙌 Conclusion
 This project demonstrates how Machine Learning can be used in healthcare to predict disease risks early and support better medical decisions.
----
