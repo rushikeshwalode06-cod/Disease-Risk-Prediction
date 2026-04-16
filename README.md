@@ -37,7 +37,7 @@ It helps in early detection and supports preventive healthcare.
 ---
 
 ## 🧠 ML Algorithms Used
-Random Forest Classifier
+   ### Random Forest Classifier
 ---
 
 ## 🔄 Workflow
