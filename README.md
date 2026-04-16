@@ -58,6 +58,7 @@ Random Forest Classifier
 
 ## 📈 Sample Output
 Disease Risk Present⚠️ (1)
+5. Model Evaluation
 You are Healthy ✅ (0)
 
 ## 💡 Future Improvements
