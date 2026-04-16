@@ -24,6 +24,7 @@ It helps in early detection and supports preventive healthcare.
 8. Alcohol_intake
 9. Physical_activity
 10. Disease_risk (target_value)
+---
 
 ## ⚙️ Technologies Used
 1. Python 🐍
