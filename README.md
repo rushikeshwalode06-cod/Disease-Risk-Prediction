@@ -73,3 +73,4 @@ You are Healthy ✅ (0)
 
 
 ## 🙌 Conclusion
+The Disease Risk Prediction project successfully uses Machine Learning to predict disease risk from health-related data. The model is trained, tested, and evaluated using metrics such as Accuracy, Precision, Recall, F1 Score, and Confusion Matrix. This project demonstrates how ML can support early disease-risk prediction.
